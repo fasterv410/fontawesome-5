@@ -17,4 +17,5 @@ Import fontawesome.js to index.html
   <body>
     <!-- Your work -->
   </body>
+</html>
 ```
