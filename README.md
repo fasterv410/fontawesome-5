@@ -8,5 +8,13 @@ Import fontawesome.js to index.html
 
 ### Example
 ```html
-<script src="/fontawesome.js" type="text/javascript" />
+<html>
+  <head>
+    <!-- /// -->
+    <script src="/fontawesome.js" type="text/javascript" />
+    <!-- /// -->
+  </head>
+  <body>
+    <!-- Your work -->
+  </body>
 ```
