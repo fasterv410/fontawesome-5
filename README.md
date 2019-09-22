@@ -7,4 +7,6 @@ Version 5.10.2 (Latest version)
 Import fontawesome.js to index.html
 
 ### Example
+```html
 <script src="/fontawesome.js" type="text/javascript" />
+```
