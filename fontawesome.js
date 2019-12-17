@@ -1,3 +1,4 @@
+/* eslint-disable */
 window.FontAwesomeKitConfig = {
   "asyncLoading": {
       "enabled": true
