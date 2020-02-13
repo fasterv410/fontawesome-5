@@ -19,7 +19,7 @@ window.FontAwesomeKitConfig = {
   "v4shim": {
 		"enabled": true
   },
-  "version": "latest" // 5.10.2 It work!
+  "version": "latest" // 5.10.2 It work
 };
 ! function() {
   function r(e) {
