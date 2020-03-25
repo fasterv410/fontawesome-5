@@ -1,4 +1,4 @@
-# Fontawesome 5 Pro License
+# Fontawesome 5 Free
 
 Version 5.10.2 (Latest version)
 
